@@ -1,0 +1,22 @@
+.Container{
+    text-align: left;
+    display: flexbox;
+    background-color: lightcyan;
+    margin: 20px;
+    padding: 10px;
+    height: 100px;
+    
+  }
+  
+
+  #Edu {
+    text-decoration: underline;
+  }
+  #obj {
+    text-decoration: underline;
+    
+  }
+
+  #Exp {
+    text-decoration: underline;
+  }
